@@ -1,6 +1,6 @@
-# 🐧 KernelKraft: Crafting the Future of OS Development at 42 Berlin 🛠️
+# 🐧 OSWizards: Crafting the Future of OS Development at 42 Berlin 🛠️
 
-Welcome to KernelKraft! 🎉 We're a motley crew of OS enthusiasts, kernel hackers, and general tech wizards hailing from the illustrious halls of 42 Berlin. Our mission? To dive deep into the arcane art of OS development and maybe—just maybe—conjure up our very own Operating System. Think of us as the Dumbledores of the digital realm, minus the beards (mostly). 
+Welcome to OSWizards! 🎉 We're a motley crew of OS enthusiasts, kernel hackers, and general tech wizards hailing from the illustrious halls of 42 Berlin. Our mission? To dive deep into the arcane art of OS development and maybe—just maybe—conjure up our very own Operating System. Think of us as the Dumbledores of the digital realm, minus the beards (mostly). 
 
 ## What We Do 🚀
 
@@ -16,8 +16,8 @@ Welcome to KernelKraft! 🎉 We're a motley crew of OS enthusiasts, kernel hacke
 
 ## Final Words 🎇
 
-So, if you're ready to embark on a journey through the internals of computing, don your wizard hat, grab your coding staff, and join us at KernelKraft. Let's make some magic happen. 🧙‍♂️✨
+So, if you're ready to embark on a journey through the internals of computing, don your wizard hat, grab your coding staff, and join us at OSWizards. Let's make some magic happen. 🧙‍♂️✨
 
 ---
 
-*KernelKraft: Because every OS deserves a little bit of magic.*
+*OSWizards: Because every OS deserves a little bit of magic.*
