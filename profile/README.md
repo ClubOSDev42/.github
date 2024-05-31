@@ -1,4 +1,4 @@
-# 🐧 OSWizards: Crafting the Future of OS Development at 42 Berlin 🛠️
+# 🐧 OSWizards: Crafting the Future of OS Development @42Berlin 🛠️
 
 Welcome to OSWizards! 🎉 We're a motley crew of OS enthusiasts, kernel hackers, and general tech wizards hailing from the illustrious halls of 42 Berlin. Our mission? To dive deep into the arcane art of OS development and maybe—just maybe—conjure up our very own Operating System. Think of us as the Dumbledores of the digital realm, minus the beards (mostly). 
 
