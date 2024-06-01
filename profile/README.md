@@ -20,4 +20,4 @@ So, if you're ready to embark on a journey through the internals of computing, d
 
 ---
 
-*OSWizards: Because every OS deserves a little bit of magic.*
+*Because every OS deserves a little bit of magic 💫*
